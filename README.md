@@ -8,4 +8,5 @@ pip install -r requirements.txt
 
 # Run the App
 streamlit run app.py
+# Demo Image
 <img width="1366" height="768" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/835d565d-91c2-4a93-82eb-8485881ae1e4" />
