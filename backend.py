@@ -54,6 +54,7 @@ def process_pdf(pdf_file):
 
 
 def answer_question(question):
+
     global qa_chain
     if qa_chain is None:
         raise ValueError("Please upload and process a PDF first.")
